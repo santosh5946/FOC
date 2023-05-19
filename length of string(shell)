@@ -1,7 +1,7 @@
 #!/bin/bash  
 #Bash program to find the length of a string  
   
-str="Welcome to Javatpoint"  
+str="Harsha"  
 length=${#str}  
   
 echo "Length of '$str' is $length"  
